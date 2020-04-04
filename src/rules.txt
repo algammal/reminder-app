@@ -1,0 +1,12 @@
+import createStore from redux in index.js
+import provider from react-redux in index.js
+create store in index.js that has create store function with element reducer 
+create reducers folder and add new file name it index.js in reducers folder
+in index.js in reducers folder create function that has a state and action elements
+
+
+
+1) action types and it must contain types
+2) action creators its function that return action
+3) Reducers
+4) jsx
